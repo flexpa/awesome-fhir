@@ -2,6 +2,15 @@
 
 Awesome FHIR resources for health data systems curated by [Automate Medical](https://www.automatemedical.com/)
 
+## Table of Contents
+* [Community](#community)
+* [Architecture](#architecture)
+* [Profiling](#profiling)
+* [Testing](#testing)
+
+## Community
+* [chat.fhir.org *aka Zulip*](https://chat.fhir.org/)
+
 ## Architecture
 * [Implement FHIR REST server with Couchbase](https://blog.couchbase.com/implement-fhir-rest-server-with-couchbase/)
 
