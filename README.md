@@ -1,6 +1,8 @@
 # awesome-fhir
 
-Awesome FHIR resources for health data systems curated by [Automate Medical](https://www.automatemedical.com/)
+Awesome FHIR resources for health data systems curated by [Automate Medical Inc.](https://www.automatemedical.com/)
+
+<img width="176" alt="Automate Medical Inc." src="https://user-images.githubusercontent.com/704789/123880097-31e0ac80-d8ff-11eb-996b-1b852b187e6a.png">
 
 ## Table of Contents
 * [Community](#community)
