@@ -8,7 +8,9 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [Community](#community)
 * [Architecture](#architecture)
 * [Profiling](#profiling)
+* [SMART](#smart)
 * [Testing](#testing)
+
 
 ## Community
 * [chat.fhir.org *aka Zulip*](https://chat.fhir.org/)
@@ -22,5 +24,9 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [FHIR Package Registry](https://registry.fhir.org/)
 * [Online FHIR® meetup: FHIR profiling](https://www.youtube.com/watch?v=3ZZ76Dobjto)
 
+## SMART
+* [SMART App Launcher](https://launch.smarthealthit.org/)
+
 ## Testing
 * [Touchstone](https://touchstone.aegis.net/touchstone/)
+
