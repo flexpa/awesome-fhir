@@ -20,6 +20,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [FSH School](https://fshschool.org/)
 * [SUSHI](https://github.com/FHIR/sushi)
 * [FHIR Package Registry](https://registry.fhir.org/)
+* [Online FHIR® meetup: FHIR profiling](https://www.youtube.com/watch?v=3ZZ76Dobjto)
 
 ## Testing
 * [Touchstone](https://touchstone.aegis.net/touchstone/)
