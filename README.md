@@ -18,6 +18,11 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 ## Architecture
 * [Implement FHIR REST server with Couchbase](https://blog.couchbase.com/implement-fhir-rest-server-with-couchbase/)
 
+## JavaScript
+### Clients
+* [FHIR/fhir.js](https://github.com/FHIR/fhir.js/)
+* [Vermonster/fhir-kit-client](https://github.com/Vermonster/fhir-kit-client)
+
 ## Profiling
 * [FSH School](https://fshschool.org/)
 * [SUSHI](https://github.com/FHIR/sushi)
