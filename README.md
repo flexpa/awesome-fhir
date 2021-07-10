@@ -26,6 +26,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 
 ## Patient Access
 * [CMS Blue Button 2.0](https://bluebutton.cms.gov/)
+* [DaVinci PDex IG](http://hl7.org/fhir/us/davinci-pdex/index.html)
 
 ## Profiling
 * [FSH School](https://fshschool.org/)
