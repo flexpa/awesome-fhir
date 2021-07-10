@@ -32,6 +32,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 
 ## SMART
 * [SMART App Launcher](https://launch.smarthealthit.org/)
+* [Using Bluebutton 2.0](https://www.healthsouse.com/patient-access/using-blue-button/)
 
 ## Testing
 * [Touchstone](https://touchstone.aegis.net/touchstone/)
