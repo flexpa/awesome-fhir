@@ -7,6 +7,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 ## Table of Contents
 * [Community](#community)
 * [Architecture](#architecture)
+* [Patient Access](#patient-access)
 * [Profiling](#profiling)
 * [SMART](#smart)
 * [Testing](#testing)
@@ -23,6 +24,9 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [FHIR/fhir.js](https://github.com/FHIR/fhir.js/)
 * [Vermonster/fhir-kit-client](https://github.com/Vermonster/fhir-kit-client)
 
+## Patient Access
+* [CMS Blue Button 2.0](https://bluebutton.cms.gov/)
+
 ## Profiling
 * [FSH School](https://fshschool.org/)
 * [SUSHI](https://github.com/FHIR/sushi)
@@ -32,7 +36,6 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 
 ## SMART
 * [SMART App Launcher](https://launch.smarthealthit.org/)
-* [Using Bluebutton 2.0](https://www.healthsouse.com/patient-access/using-blue-button/)
 
 ## Testing
 * [Touchstone](https://touchstone.aegis.net/touchstone/)
