@@ -28,6 +28,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [SUSHI](https://github.com/FHIR/sushi)
 * [FHIR Package Registry](https://registry.fhir.org/)
 * [Online FHIR® meetup: FHIR profiling](https://www.youtube.com/watch?v=3ZZ76Dobjto)
+* [US Implementation Guides](http://hl7.org/fhir/us/)
 
 ## SMART
 * [SMART App Launcher](https://launch.smarthealthit.org/)
