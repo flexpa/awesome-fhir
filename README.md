@@ -7,8 +7,10 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 ## Table of Contents
 * [Community](#community)
 * [Architecture](#architecture)
+* [Clients](#clients)
 * [Patient Access](#patient-access)
 * [Profiling](#profiling)
+* [Servers](#servers)
 * [SMART](#smart)
 * [Testing](#testing)
 
@@ -19,8 +21,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 ## Architecture
 * [Implement FHIR REST server with Couchbase](https://blog.couchbase.com/implement-fhir-rest-server-with-couchbase/)
 
-## JavaScript
-### Clients
+## Clients
 * [FHIR/fhir.js](https://github.com/FHIR/fhir.js/)
 * [Vermonster/fhir-kit-client](https://github.com/Vermonster/fhir-kit-client)
 
@@ -34,6 +35,11 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [FHIR Package Registry](https://registry.fhir.org/)
 * [Online FHIR® meetup: FHIR profiling](https://www.youtube.com/watch?v=3ZZ76Dobjto)
 * [US Implementation Guides](http://hl7.org/fhir/us/)
+
+## Servers
+* [FHIR Works on AWS deployment
+](https://github.com/awslabs/fhir-works-on-aws-deployment)
+* [FHIR Server for Azure](https://github.com/microsoft/fhir-server)
 
 ## SMART
 * [SMART App Launcher](https://launch.smarthealthit.org/)
