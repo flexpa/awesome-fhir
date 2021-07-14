@@ -45,5 +45,6 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [SMART App Launcher](https://launch.smarthealthit.org/)
 
 ## Testing
+* [Logica Sandbox](https://github.com/logicahealth/sandbox-community-edition)
 * [Touchstone](https://touchstone.aegis.net/touchstone/)
 
