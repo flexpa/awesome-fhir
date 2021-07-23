@@ -9,6 +9,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [Architecture](#architecture)
 * [Clients](#clients)
 * [Patient Access](#patient-access)
+* [Payer Data](#payer-data)
 * [Profiling](#profiling)
 * [Servers](#servers)
 * [SMART](#smart)
@@ -28,6 +29,11 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 ## Patient Access
 * [CMS Blue Button 2.0](https://bluebutton.cms.gov/)
 * [DaVinci PDex IG](http://hl7.org/fhir/us/davinci-pdex/index.html)
+
+## Payer Data
+| Org | URL | CapabilityStatement | IG | Provider Directory API | Formulary API | 
+|-----|-----|---------------------|----|------------------------|---------------|
+| Humana | [developers.humana.com](https://developers.humana.com) | [Yes](https://fhir.humana.com/api/metadata) | [1.0.0 CARIN Blue Button Implementation Guide Release 1 - US Realm STU](http://hl7.org/fhir/us/carin-bb/STU1/) | [Yes](https://developers.humana.com/apis/provider-directory-api/doc) | [Yes](https://formulary.fhir.server/fhir/R4)
 
 ## Profiling
 * [FSH School](https://fshschool.org/)
