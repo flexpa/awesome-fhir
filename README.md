@@ -31,7 +31,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [DaVinci PDex IG](http://hl7.org/fhir/us/davinci-pdex/index.html)
 
 ## Payer Data
-| Org | URL | CapabilityStatement | IG | Provider Directory API | Formulary API | 
+| Org | URL | /metadata | IG | Provider Directory | Formulary | 
 |-----|-----|---------------------|----|------------------------|---------------|
 | Humana | [developers.humana.com](https://developers.humana.com) | [Yes](https://fhir.humana.com/api/metadata) | [1.0.0 CARIN Blue Button Implementation Guide Release 1 - US Realm STU](http://hl7.org/fhir/us/carin-bb/STU1/) | [Yes](https://developers.humana.com/apis/provider-directory-api/doc) | [Yes](https://formulary.fhir.server/fhir/R4) |
 | United Healthcare, Optum | [uhc.com/legal/interoperability-apis](https://www.uhc.com/legal/interoperability-apis)
