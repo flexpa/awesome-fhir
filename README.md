@@ -36,11 +36,12 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 | Org | URL | /metadata | IG | Provider Directory | Formulary | 
 |-----|-----|---------------------|----|------------------------|---------------|
 | Humana | [developers.humana.com](https://developers.humana.com) | [Yes](https://fhir.humana.com/api/metadata) | [1.0.0 CARIN Blue Button Implementation Guide Release 1 - US Realm STU](http://hl7.org/fhir/us/carin-bb/STU1/) | [Yes](https://developers.humana.com/apis/provider-directory-api/doc) | [Yes](https://formulary.fhir.server/fhir/R4) |
-| United Healthcare, Optum | [uhc.com/legal/interoperability-apis](https://www.uhc.com/legal/interoperability-apis)
+| United Healthcare, Optum | [uhc.com](https://www.uhc.com/legal/interoperability-apis)
 | Aetna | [developerportal.aetna.com](https://developerportal.aetna.com/aetna/gettingstarted)
 | Cigna | [developer.cigna.com](https://developer.cigna.com/documentation) | | | 
 | Clover | [cloverhealth.com](https://www.cloverhealth.com/en/developers) | | | Yes | Yes
-| Alignment | [alignmenthealthcare.com/api](https://www.alignmenthealthcare.com/api) | 
+| Alignment | [alignmenthealthcare.com](https://www.alignmenthealthcare.com/api) | 
+| Anthem | [anthem.com](https://www.anthem.com/microsites/dev-pgm/tnc.html)
 
 ## Profiling
 * [FSH School](https://fshschool.org/)
