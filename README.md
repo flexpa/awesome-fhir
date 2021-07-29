@@ -15,9 +15,11 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [SMART](#smart)
 * [Testing](#testing)
 
-
 ## Community
 * [chat.fhir.org *aka Zulip*](https://chat.fhir.org/)
+
+## CQL 
+* [cqframework/cql-exec-fhir](https://github.com/cqframework/cql-exec-fhir)
 
 ## Architecture
 * [Implement FHIR REST server with Couchbase](https://blog.couchbase.com/implement-fhir-rest-server-with-couchbase/)
