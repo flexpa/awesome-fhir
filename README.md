@@ -51,6 +51,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [US Implementation Guides](http://hl7.org/fhir/us/)
 
 ## Servers
+* [HAPI FHIR](https://hapifhir.io/)
 * [FHIR Works on AWS deployment
 ](https://github.com/awslabs/fhir-works-on-aws-deployment)
 * [FHIR Server for Azure](https://github.com/microsoft/fhir-server)
