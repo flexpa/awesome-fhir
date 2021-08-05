@@ -62,6 +62,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 * [FHIR Server for Azure](https://github.com/microsoft/fhir-server)
 
 ## SMART
+* [SMART Health IT](https://smarthealthit.org/)
 * [SMART App Launcher](https://launch.smarthealthit.org/)
 
 ## Testing
