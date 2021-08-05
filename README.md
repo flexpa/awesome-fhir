@@ -7,7 +7,9 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 ## Table of Contents
 * [Community](#community)
 * [Architecture](#architecture)
+* [Bulk Data](#bulk-data)
 * [Clients](#clients)
+* [CQL](#cql)
 * [Patient Access](#patient-access)
 * [Payer Data](#payer-data)
 * [Profiling](#profiling)
@@ -18,15 +20,18 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
 ## Community
 * [chat.fhir.org *aka Zulip*](https://chat.fhir.org/)
 
-## CQL 
-* [cqframework/cql-exec-fhir](https://github.com/cqframework/cql-exec-fhir)
-
 ## Architecture
 * [Implement FHIR REST server with Couchbase](https://blog.couchbase.com/implement-fhir-rest-server-with-couchbase/)
+
+## Bulk Data
+* [Epic Bulk Data Documentation](https://fhir.epic.com/Documentation?docId=fhir_bulk_data)
 
 ## Clients
 * [FHIR/fhir.js](https://github.com/FHIR/fhir.js/)
 * [Vermonster/fhir-kit-client](https://github.com/Vermonster/fhir-kit-client)
+
+## CQL 
+* [cqframework/cql-exec-fhir](https://github.com/cqframework/cql-exec-fhir)
 
 ## Patient Access
 * [CMS Blue Button 2.0](https://bluebutton.cms.gov/)
