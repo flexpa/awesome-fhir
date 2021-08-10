@@ -44,7 +44,7 @@ Awesome FHIR resources for health data systems curated by [Automate Medical Inc.
   | United Healthcare, Optum | [uhc.com](https://www.uhc.com/legal/interoperability-apis) | [hsid](https://hsid.fhir.flex.optum.com/R4/metadata), [sierra](https://sierra.fhir.flex.optum.com/R4/metadata), [rmhp](https://rmhp.fhir.flex.optum.com/R4/metadata), [healthx](https://healthx.fhir.flex.optum.com/R4/metadata), [sandbox](https://sandbox.fhir.flex.optum.com/R4/metadata)
 | Aetna | [developerportal.aetna.com](https://developerportal.aetna.com/aetna/gettingstarted)
 | Cigna | [developer.cigna.com](https://developer.cigna.com/documentation) | | | 
-| Clover | [cloverhealth.com](https://www.cloverhealth.com/en/developers) | | | Yes | Yes
+| Clover | [cloverhealth.com](https://www.cloverhealth.com/en/developers) | | | [Yes](https://data-api.cloverhealth.com/providerdirectory/console/#docs) | Yes
 | Alignment | [alignmenthealthcare.com](https://www.alignmenthealthcare.com/api) | 
 | Anthem | [anthem.com](https://www.anthem.com/microsites/dev-pgm/tnc.html)
 
